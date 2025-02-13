@@ -1,0 +1,128 @@
+{
+  "translation": {
+    "expired": "Sua sessão expirou!",
+    "currency": "R$",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "formatCurrency": {
+      "country": "pt-br",
+      "currency": "BRL"
+    },
+    "fab": {
+      "newCategory": "Nova Categoria",
+      "newExpense": "Nova Despesa",
+      "newIncome": "Nova Receita",
+      "newAccount": "Nova Conta"
+    },
+    "welcomeText": "Gerencie suas finanças pessoais de uma forma simples com o fincheck, e o melhor, totalmente de graça!",
+    "logoutText": "Sair",
+    "login": {
+      "loginTitle": "Entre em sua conta",
+      "loginSuggestion": "Novo por aqui?",
+      "createAccountSuggestion": "Crie uma conta",
+      "loginButton": "Entrar"
+    },
+    "register": {
+      "registerTitle": "Crie sua conta",
+      "registerSuggestion": "Já possui uma conta?",
+      "createAccountSuggestion": "Fazer login",
+      "registerButton": "Criar conta"
+    },
+    "accounts": {
+      "totalBalance": "Saldo total",
+      "initialBalance": "Saldo inicial",
+      "myAccounts": "Minhas contas",
+      "newAccount": "Cadastre uma nova conta",
+      "currentBalance": "Saldo atual",
+      "editAccountTitle": "Editar Conta",
+      "deleteAccountTitle": "Tem certeza de que deseja excluir sua conta?",
+      "deleteAccountDescription": "Ao excluir a conta, também serão excluídos todos os registros de receita e despesa da relacionados a mesma.",
+      "confirmDelete": "Sim, desejo excluir",
+      "cancelDelete": "Cancelar",
+      "newAccountTitle": "Nova Conta",
+      "create": "Criar"
+    },
+    "transactions": {
+      "empty": "Não encontramos nenhuma transação!",
+      "editIncome": "Editar Receita",
+      "editExpense": "Editar Despesa",
+      "create": "Criar",
+      "deleteIncomeTitle": "Tem certeza de que deseja excluir esta receita?",
+      "deleteExpenseTitle": "Tem certeza de que deseja excluir esta despesa?",
+      "filtersModal": {
+        "title": "Filtros",
+        "account": "Conta",
+        "year": "Ano",
+        "submit": "Aplicar Filtros"
+      },
+      "dropdown": {
+        "transactions": "Transações",
+        "expenses": "Despesas",
+        "incomes": "Receitas"
+      }
+    },
+    "categories": {
+      "newCategoryTitle": "Nova Categoria",
+      "deleteCategoryTitle": "Tem certeza de que deseja excluir esta categoria?",
+      "editCategoryTitle": "Editar Categoria",
+      "createCategory": "Criar"
+    },
+    "placeholders": {
+      "password": "Senha",
+      "name": "Nome",
+      "category": "Categoria",
+      "payWith": "Pagar com",
+      "receiveWith": "Receber com",
+      "accountName": "Nome da conta",
+      "date": "Data",
+      "type": "Tipo",
+      "color": "Cor",
+      "incomeName": "Nome da receita",
+      "expenseName": "Nome da despesa",
+      "incomeValue": "Valor da receita",
+      "expenseValue": "Valor da despesa",
+      "categoryName": "Nome da categoria"
+    },
+    "schemaMessages": {},
+    "toastMessages": {
+      "register": {
+        "userCreated": "Usuário criado com sucesso!",
+        "userCreatedError": "Ocorreu um erro ao criar a sua conta."
+      },
+      "login": {
+        "loginSuccess": "Usuário autenticado com sucesso!",
+        "loginError": "Credenciais inválidas."
+      },
+      "accounts": {
+        "createAccountSuccess": "Conta cadastrada com sucesso!",
+        "createAccountError": "Erro ao cadastrar a conta.",
+        "editAccountSuccess": "Conta editada com sucesso!",
+        "editAccountError": "Erro ao editar a conta.",
+        "removeAccountSuccess": "Conta deletada com sucesso!",
+        "removeAccountError": "Erro ao deletar a conta."
+      },
+      "transactions": {
+        "createIncomeSuccess": "Receita cadastrada com sucesso!",
+        "createExpenseSuccess": "Despesa cadastrada com sucesso!",
+        "createIncomeError": "Error ao cadastrar receita.",
+        "createExpenseError": "Error ao cadastrar despesa.",
+        "editIncomeSuccess": "Receita editada com sucesso!",
+        "editExpenseSuccess": "Despesa editada com sucesso!",
+        "editIncomeError": "Erro ao salvar receita.",
+        "editExpenseError": "Erro ao salvar despesa.",
+        "removeIncomeSuccess": "Receita deletada com sucesso!",
+        "removeExpenseSuccess": "Despesa deletada com sucesso!",
+        "removeIncomeError": "Erro ao deletar receita.",
+        "removeExpenseError": "Erro ao deletar despesa."
+      },
+      "categories": {
+        "createCategorySuccess": "Categoria criada com sucesso!",
+        "createCategoryError": "Erro ao criar categoria.",
+        "deleteCategorySuccess": "Categoria deletada com sucesso!",
+        "deleteCategoryError": "Erro ao deletar categoria.",
+        "editCategorySuccess": "Categoria editada com sucesso!",
+        "editCategoryError": "Erro ao editar categoria."
+      }
+    }
+  }
+}

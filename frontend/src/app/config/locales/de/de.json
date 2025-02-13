@@ -1,0 +1,128 @@
+{
+  "translation": {
+    "expired": "Ihre Sitzung ist abgelaufen!",
+    "currency": "€",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "formatCurrency": {
+      "country": "de-de",
+      "currency": "EUR"
+    },
+    "fab": {
+      "newCategory": "Neue Kategorie",
+      "newExpense": "Neue Ausgabe",
+      "newIncome": "Neues Einkommen",
+      "newAccount": "Neues Konto"
+    },
+    "welcomeText": "Verwalten Sie Ihre persönlichen Finanzen einfach mit Fincheck – und das Beste: völlig kostenlos!",
+    "logoutText": "Abmelden",
+    "login": {
+      "loginTitle": "Melden Sie sich in Ihrem Konto an",
+      "loginSuggestion": "Neu hier?",
+      "createAccountSuggestion": "Konto erstellen",
+      "loginButton": "Anmelden"
+    },
+    "register": {
+      "registerTitle": "Erstellen Sie Ihr Konto",
+      "registerSuggestion": "Haben Sie bereits ein Konto?",
+      "createAccountSuggestion": "Anmelden",
+      "registerButton": "Konto erstellen"
+    },
+    "accounts": {
+      "totalBalance": "Gesamtsaldo",
+      "initialBalance": "Anfangssaldo",
+      "myAccounts": "Meine Konten",
+      "newAccount": "Neues Konto hinzufügen",
+      "currentBalance": "Aktueller Saldo",
+      "editAccountTitle": "Konto bearbeiten",
+      "deleteAccountTitle": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten?",
+      "deleteAccountDescription": "Beim Löschen des Kontos werden auch alle damit verbundenen Einnahmen- und Ausgabenaufzeichnungen gelöscht.",
+      "confirmDelete": "Ja, ich möchte löschen",
+      "cancelDelete": "Abbrechen",
+      "newAccountTitle": "Neues Konto",
+      "create": "Erstellen"
+    },
+    "transactions": {
+      "empty": "Wir haben keine Transaktionen gefunden!",
+      "editIncome": "Einkommen bearbeiten",
+      "editExpense": "Ausgabe bearbeiten",
+      "create": "Erstellen",
+      "deleteIncomeTitle": "Sind Sie sicher, dass Sie dieses Einkommen löschen möchten?",
+      "deleteExpenseTitle": "Sind Sie sicher, dass Sie diese Ausgabe löschen möchten?",
+      "filtersModal": {
+        "title": "Filter",
+        "account": "Konto",
+        "year": "Jahr",
+        "submit": "Filter anwenden"
+      },
+      "dropdown": {
+        "transactions": "Transaktionen",
+        "expenses": "Ausgaben",
+        "incomes": "Einnahmen"
+      }
+    },
+    "categories": {
+      "newCategoryTitle": "Neue Kategorie",
+      "deleteCategoryTitle": "Sind Sie sicher, dass Sie diese Kategorie löschen möchten?",
+      "editCategoryTitle": "Kategorie bearbeiten",
+      "createCategory": "Erstellen"
+    },
+    "placeholders": {
+      "password": "Passwort",
+      "name": "Name",
+      "category": "Kategorie",
+      "payWith": "Bezahlen mit",
+      "receiveWith": "Erhalten mit",
+      "accountName": "Kontoname",
+      "date": "Datum",
+      "type": "Typ",
+      "color": "Farbe",
+      "incomeName": "Einkommensname",
+      "expenseName": "Ausgabenname",
+      "incomeValue": "Einkommensbetrag",
+      "expenseValue": "Ausgabenbetrag",
+      "categoryName": "Kategoriename"
+    },
+    "schemaMessages": {},
+    "toastMessages": {
+      "register": {
+        "userCreated": "Benutzer erfolgreich erstellt!",
+        "userCreatedError": "Fehler beim Erstellen des Kontos."
+      },
+      "login": {
+        "loginSuccess": "Benutzer erfolgreich authentifiziert!",
+        "loginError": "Ungültige Anmeldeinformationen."
+      },
+      "accounts": {
+        "createAccountSuccess": "Konto erfolgreich erstellt!",
+        "createAccountError": "Fehler beim Erstellen des Kontos.",
+        "editAccountSuccess": "Konto erfolgreich bearbeitet!",
+        "editAccountError": "Fehler beim Bearbeiten des Kontos.",
+        "removeAccountSuccess": "Konto erfolgreich gelöscht!",
+        "removeAccountError": "Fehler beim Löschen des Kontos."
+      },
+      "transactions": {
+        "createIncomeSuccess": "Einnahme erfolgreich erfasst!",
+        "createExpenseSuccess": "Ausgabe erfolgreich erfasst!",
+        "createIncomeError": "Fehler beim Erfassen der Einnahme.",
+        "createExpenseError": "Fehler beim Erfassen der Ausgabe.",
+        "editIncomeSuccess": "Einnahme erfolgreich bearbeitet!",
+        "editExpenseSuccess": "Ausgabe erfolgreich bearbeitet!",
+        "editIncomeError": "Fehler beim Speichern der Einnahme.",
+        "editExpenseError": "Fehler beim Speichern der Ausgabe.",
+        "removeIncomeSuccess": "Einnahme erfolgreich gelöscht!",
+        "removeExpenseSuccess": "Ausgabe erfolgreich gelöscht!",
+        "removeIncomeError": "Fehler beim Löschen der Einnahme.",
+        "removeExpenseError": "Fehler beim Löschen der Ausgabe."
+      },
+      "categories": {
+        "createCategorySuccess": "Kategorie erfolgreich erstellt!",
+        "createCategoryError": "Fehler beim Erstellen der Kategorie.",
+        "deleteCategorySuccess": "Kategorie erfolgreich gelöscht!",
+        "deleteCategoryError": "Fehler beim Löschen der Kategorie.",
+        "editCategorySuccess": "Kategorie erfolgreich bearbeitet!",
+        "editCategoryError": "Fehler beim Bearbeiten der Kategorie."
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "translation": {
+    "expired": "Votre session a expiré !",
+    "currency": "R$",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "formatCurrency": {
+      "country": "fr-fr",
+      "currency": "EUR"
+    },
+    "fab": {
+      "newCategory": "Nouvelle Catégorie",
+      "newExpense": "Nouvelle Dépense",
+      "newIncome": "Nouveau Revenu",
+      "newAccount": "Nouveau Compte"
+    },
+    "welcomeText": "Gérez vos finances personnelles de manière simple avec Fincheck, et le meilleur, totalement gratuit !",
+    "logoutText": "Se déconnecter",
+    "login": {
+      "loginTitle": "Connectez-vous à votre compte",
+      "loginSuggestion": "Nouveau ici ?",
+      "createAccountSuggestion": "Créer un compte",
+      "loginButton": "Se connecter"
+    },
+    "register": {
+      "registerTitle": "Créez votre compte",
+      "registerSuggestion": "Vous avez déjà un compte ?",
+      "createAccountSuggestion": "Se connecter",
+      "registerButton": "Créer un compte"
+    },
+    "accounts": {
+      "totalBalance": "Solde total",
+      "initialBalance": "Solde initial",
+      "myAccounts": "Mes comptes",
+      "newAccount": "Ajouter un nouveau compte",
+      "currentBalance": "Solde actuel",
+      "editAccountTitle": "Modifier le Compte",
+      "deleteAccountTitle": "Êtes-vous sûr de vouloir supprimer votre compte ?",
+      "deleteAccountDescription": "La suppression du compte entraînera également la suppression de tous les enregistrements de revenus et de dépenses associés.",
+      "confirmDelete": "Oui, je veux supprimer",
+      "cancelDelete": "Annuler",
+      "newAccountTitle": "Nouveau Compte",
+      "create": "Créer"
+    },
+    "transactions": {
+      "empty": "Nous n'avons trouvé aucune transaction !",
+      "editIncome": "Modifier le Revenu",
+      "editExpense": "Modifier la Dépense",
+      "create": "Créer",
+      "deleteIncomeTitle": "Êtes-vous sûr de vouloir supprimer ce revenu ?",
+      "deleteExpenseTitle": "Êtes-vous sûr de vouloir supprimer cette dépense ?",
+      "filtersModal": {
+        "title": "Filtres",
+        "account": "Compte",
+        "year": "Année",
+        "submit": "Appliquer les filtres"
+      },
+      "dropdown": {
+        "transactions": "Transactions",
+        "expenses": "Dépenses",
+        "incomes": "Revenus"
+      }
+    },
+    "categories": {
+      "newCategoryTitle": "Nouvelle Catégorie",
+      "deleteCategoryTitle": "Êtes-vous sûr de vouloir supprimer cette catégorie ?",
+      "editCategoryTitle": "Modifier la Catégorie",
+      "createCategory": "Créer"
+    },
+    "placeholders": {
+      "password": "Mot de passe",
+      "name": "Nom",
+      "category": "Catégorie",
+      "payWith": "Payer avec",
+      "receiveWith": "Recevoir avec",
+      "accountName": "Nom du compte",
+      "date": "Date",
+      "type": "Type",
+      "color": "Couleur",
+      "incomeName": "Nom du revenu",
+      "expenseName": "Nom de la dépense",
+      "incomeValue": "Montant du revenu",
+      "expenseValue": "Montant de la dépense",
+      "categoryName": "Nom de la catégorie"
+    },
+    "schemaMessages": {},
+    "toastMessages": {
+      "register": {
+        "userCreated": "Utilisateur créé avec succès !",
+        "userCreatedError": "Une erreur s'est produite lors de la création de votre compte."
+      },
+      "login": {
+        "loginSuccess": "Utilisateur authentifié avec succès !",
+        "loginError": "Identifiants invalides."
+      },
+      "accounts": {
+        "createAccountSuccess": "Compte enregistré avec succès !",
+        "createAccountError": "Erreur lors de l'enregistrement du compte.",
+        "editAccountSuccess": "Compte modifié avec succès !",
+        "editAccountError": "Erreur lors de la modification du compte.",
+        "removeAccountSuccess": "Compte supprimé avec succès !",
+        "removeAccountError": "Erreur lors de la suppression du compte."
+      },
+      "transactions": {
+        "createIncomeSuccess": "Revenu enregistré avec succès !",
+        "createExpenseSuccess": "Dépense enregistrée avec succès !",
+        "createIncomeError": "Erreur lors de l'enregistrement du revenu.",
+        "createExpenseError": "Erreur lors de l'enregistrement de la dépense.",
+        "editIncomeSuccess": "Revenu modifié avec succès !",
+        "editExpenseSuccess": "Dépense modifiée avec succès !",
+        "editIncomeError": "Erreur lors de l'enregistrement du revenu.",
+        "editExpenseError": "Erreur lors de l'enregistrement de la dépense.",
+        "removeIncomeSuccess": "Revenu supprimé avec succès !",
+        "removeExpenseSuccess": "Dépense supprimée avec succès !",
+        "removeIncomeError": "Erreur lors de la suppression du revenu.",
+        "removeExpenseError": "Erreur lors de la suppression de la dépense."
+      },
+      "categories": {
+        "createCategorySuccess": "Catégorie créée avec succès !",
+        "createCategoryError": "Erreur lors de la création de la catégorie.",
+        "deleteCategorySuccess": "Catégorie supprimée avec succès !",
+        "deleteCategoryError": "Erreur lors de la suppression de la catégorie.",
+        "editCategorySuccess": "Catégorie modifiée avec succès !",
+        "editCategoryError": "Erreur lors de la modification de la catégorie."
+      }
+    }
+  }
+}
