@@ -1,0 +1,1 @@
+{"version":3,"file":"OptionalParseUUIDPipe.js","sourceRoot":"","sources":["../../../src/shared/pipes/OptionalParseUUIDPipe.ts"],"names":[],"mappings":";;;AAAA,2CAAiE;AAEjE,MAAa,qBAAsB,SAAQ,sBAAa;IACtD,SAAS,CAAC,KAAa,EAAE,QAA0B;QACjD,IAAI,OAAO,KAAK,KAAK,WAAW,EAAE;YAChC,OAAO,SAAS,CAAC;SAClB;QACD,OAAO,KAAK,CAAC,SAAS,CAAC,KAAK,EAAE,QAAQ,CAAC,CAAC;IAC1C,CAAC;CACF;AAPD,sDAOC"}
